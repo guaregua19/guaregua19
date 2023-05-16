@@ -1,16 +1,20 @@
+[![Header](https://raw.githubusercontent.com/guaregua19/guaregua19/main/guaregua19.png "Header")
+
 # Hi there 👋, I'm [Your Name]
 
 I'm a Software Developer from [Your Location] with a passion for coding and a knack for problem-solving. I love using my skills to create solutions that make a difference.
 
 ## About Me
 
-- 🔭 I’m currently working on: [Your Current Project or Job]
+- 🔭 I’m currently working on: Bixlabs 
 - 🌱 I’m currently learning: [Any technology you're learning]
 - 🤔 I’m looking for help with: [Any area you need help]
 - 💬 Ask me about: [Any topic you're comfortable with]
 - 📫 How to reach me: [Your contact information]
 - 😄 Pronouns: [Your pronouns]
 - ⚡ Fun fact: [Any fun fact about you]
+
+
 
 ## Technologies & Tools
 
