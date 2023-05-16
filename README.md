@@ -19,12 +19,15 @@ In addition to my technical interests, I have a deep love for animals and am com
 
 ## Technologies & Tools
 
-- **Front-End**: HTML | CSS | JavaScript | React | Vue.js
-- **Back-End**: Node.js | Express | Django | Ruby on Rails
-- **Databases**: MySQL | PostgreSQL | MongoDB
+- **PHP**: Laravel
+- **JavaScript**: Angular | NodeJS | NestJs | Express | React | Vue | Strapi
+- **Java**: Spring Boot Framework
+- **Python**: Basic knowledge
+- **Databases**: MySQL | PostgreSQL | MongoDB | GraphQL
 - **DevOps**: Docker | Jenkins | AWS
 - **Tools**: Git | Postman | VSCode 
 
+
 ## 📊 My Github stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guaregua19&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guaregua19&show_icons=true&theme=dark)
