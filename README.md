@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/guaregua19/guaregua19/main/guaregua19.png, "Thanks for visiting")
+![Header](https://raw.githubusercontent.com/guaregua19/guaregua19/main/guaregua19.png "Thanks for visiting")
 
 # Hi there 👋, I'm Lionel Guaregua
 
