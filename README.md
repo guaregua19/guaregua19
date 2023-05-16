@@ -23,9 +23,10 @@ In addition to my technical interests, I have a deep love for animals and am com
 - **JavaScript**: Angular | NodeJS | NestJs | Express | React | Vue | Strapi
 - **Java**: Spring Boot Framework
 - **Python**: Basic knowledge
+- **CSS Frameworks**: CSS | SCSS | Tailwind CSS
 - **Databases**: MySQL | PostgreSQL | MongoDB | GraphQL
 - **DevOps**: Docker | Jenkins | AWS
-- **Tools**: Git | Postman | VSCode 
+- **Tools**: Git | Postman | VSCode | Jupyter
 
 
 ## 📊 My Github stats
