@@ -27,8 +27,3 @@ In addition to my technical interests, I have a deep love for animals and am com
 - **Databases**: MySQL | PostgreSQL | MongoDB | GraphQL
 - **DevOps**: Docker | Jenkins | AWS
 - **Tools**: Git | Postman | VSCode | Jupyter
-
-
-## 📊 My Github stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guaregua19&show_icons=true&theme=dark)
